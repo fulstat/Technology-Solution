@@ -7,7 +7,7 @@ List of ebook, source code, projects, processing huge data, foundation in comput
 
 The following list below that genre of the technological ebook include:
 
-![](./Assets/image/graph.png)
+![](./assets/image/graph.png)
 ## Book
 + [Mathematics (Computer Science)](./Book)
 + [Physics (Computer Science)](./Book)
